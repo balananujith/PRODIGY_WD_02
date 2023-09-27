@@ -6,7 +6,7 @@
                     
 ![FIRSTPAGE](https://github.com/balananujith/PRODIGY_WD_02/assets/118455793/f7c9800a-4aab-4a52-850f-72ffde67c0d1)
 
-    # Key Features
+    Key Features
                   
                     Start: Begin timing with a single click of the "Start" button.</li>
                   
